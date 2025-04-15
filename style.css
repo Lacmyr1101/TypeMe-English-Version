@@ -267,7 +267,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: gear 3s linear infinite reverse;
 }
 .menuInicio .info-panel .info-container {
   position: relative;
